@@ -1,1 +1,1 @@
-This is my readme for shellbasics project
+This is my readme for shell basics project its cool
